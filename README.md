@@ -1,6 +1,6 @@
 # Adidas_Sales_Data
 Sales Data Analysis
-  It's an ongoning project to show case the knowledge of python libraries, like pandas, matplotlib, numpy, and seaborn.
-  Please leave me a comment to help improving the project.
+  It is an ongoning project to show case the knowledge I have been learning about different computer languages, such as python libraries; pandas, matplotlib, numpy, and seaborn, HTML.
+  You are very welcome to leave me any comment on how to improve the project or the codes!
 
   Thank you!
