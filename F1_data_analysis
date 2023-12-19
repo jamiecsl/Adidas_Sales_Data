@@ -1,0 +1,4 @@
+The file was downloaded from https://www.kaggle.com/datasets/davidcochran/formula-1-race-data-sqlite. 
+It is stored in a sqlite format, and contains 4 tables. 
+It has been read and transformed by sqlite3 in python, and exported the result by pandas to a CSV file. 
+The dashboard in PowerBI contain the race performance and could be drill through to the driver performance.
